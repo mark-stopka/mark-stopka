@@ -5,5 +5,6 @@ In addition, I spend a lot of time [in the Blockchain industry](/2nd-Layer), whe
 ## Involved Projects
 - [openSUSE](https://en.opensuse.org/User:M4r3k)
 - [Cardano Blockchain](/2nd-Layer/cardano-core-integration-testing)
+  - [Oura - The tail of Cardano](https://github.com/txpipe/oura)
   - [Open Build Service Cardano Project for openSUSE](https://build.opensuse.org/project/show/devel:languages:haskell:cardano)
   - [Docker Images for Cardano](/2nd-Layer/docker-hub-cardano-images)
